@@ -3,9 +3,7 @@
 
 
 
-class ejercicio2 {
-
-};
+void dia();
 
 
 
