@@ -1,0 +1,26 @@
+# ninja log v6
+14	97	7525038074917125	CMakeFiles/Examen_2_Israel_Lara.dir/parte2/ejercicio2.cpp.obj	7556ba6b2322d082
+19	104	7525038074957927	CMakeFiles/Examen_2_Israel_Lara.dir/parte3/ejercico3.cpp.obj	c1702af046377a9d
+24	107	7525038075017684	CMakeFiles/Examen_2_Israel_Lara.dir/parte4/ejercicio4.cpp.obj	7ca3bffd5d51c25c
+3	432	7525038074803906	CMakeFiles/Examen_2_Israel_Lara.dir/main.cpp.obj	8931c555917727c7
+10	443	7525038074873578	CMakeFiles/Examen_2_Israel_Lara.dir/parte1/ejercicio1.cpp.obj	8f49e12f86a38158
+443	554	7525038079207697	Examen_2_Israel_Lara.exe	70be7239134cbf4
+23	364	7525038136924712	CMakeFiles/Examen_2_Israel_Lara.dir/main.cpp.obj	8931c555917727c7
+367	451	7525038140362757	Examen_2_Israel_Lara.exe	70be7239134cbf4
+5	68	7525039802904973	CMakeFiles/Examen_2_Israel_Lara.dir/main.cpp.obj	8931c555917727c7
+9	347	7525039802949834	CMakeFiles/Examen_2_Israel_Lara.dir/parte2/ejercicio2.cpp.obj	7556ba6b2322d082
+347	429	7525039806335003	Examen_2_Israel_Lara.exe	70be7239134cbf4
+12	71	7525043228692254	CMakeFiles/Examen_2_Israel_Lara.dir/main.cpp.obj	8931c555917727c7
+16	350	7525043228739385	CMakeFiles/Examen_2_Israel_Lara.dir/parte3/ejercico3.cpp.obj	c1702af046377a9d
+350	438	7525043232074743	Examen_2_Israel_Lara.exe	70be7239134cbf4
+10	308	7525043938999685	CMakeFiles/Examen_2_Israel_Lara.dir/parte3/ejercico3.cpp.obj	c1702af046377a9d
+308	399	7525043941984903	Examen_2_Israel_Lara.exe	70be7239134cbf4
+11	68	7525046748690823	CMakeFiles/Examen_2_Israel_Lara.dir/main.cpp.obj	8931c555917727c7
+15	339	7525046748728043	CMakeFiles/Examen_2_Israel_Lara.dir/parte4/ejercicio4.cpp.obj	7ca3bffd5d51c25c
+339	434	7525046751971920	Examen_2_Israel_Lara.exe	70be7239134cbf4
+14	390	7525049683035996	CMakeFiles/Examen_2_Israel_Lara.dir/parte4/ejercicio4.cpp.obj	7ca3bffd5d51c25c
+390	485	7525049686796756	Examen_2_Israel_Lara.exe	70be7239134cbf4
+4	390	7525050756896642	CMakeFiles/Examen_2_Israel_Lara.dir/parte4/ejercicio4.cpp.obj	7ca3bffd5d51c25c
+391	478	7525050760762599	Examen_2_Israel_Lara.exe	70be7239134cbf4
+12	366	7525057659872710	CMakeFiles/Examen_2_Israel_Lara.dir/parte3/ejercico3.cpp.obj	c1702af046377a9d
+367	464	7525057663410453	Examen_2_Israel_Lara.exe	70be7239134cbf4
