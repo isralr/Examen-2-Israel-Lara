@@ -36,9 +36,13 @@ Ejercicio 4: Promoción de "3 por 2" en Tienda
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
 
  # Codigo apoyado por Copilot
- Ejercicio 1 se encuentra en parte1 en el archivo ejercicio1.cpp & .h, he utilizado un if para identificar que numero es el que escribe el usuario.
- Ejercicio 2 se encuentra en parte2 en el archivo ejercicio2.cpp & .h, he utilizado un bucle switch para identificar el numero que pone un usuario con el dia de la semana.
- Ejercicio 3 se encuentra en parte3 en el archivo ejercicio3.cpp & .h, he utilizado un array para que el usuario pueda poner todas las notas en la misma linea, un bucle for para la suma de las notas y luego la dividir entre cuanto proyectos se han realizado para sacar la media.
- Ejercicio 4 se encuentra en parte4 en el archivo ejercicio4.cpp & .h, he utilizado un array para que el usuario escriba el precio de cada uno de los productos, luego con ayuda de ia las ordenamos de mayor a menor los numeros y luego se suman los dos mas grandes que serian estarian en la posicion [0] & [1]. 
+ # Ejercicio 1:
+ Se encuentra en parte1 en el archivo ejercicio1.cpp & .h, he utilizado un if para identificar que numero es el que escribe el usuario.
+ # Ejercicio 2: 
+ Se encuentra en parte2 en el archivo ejercicio2.cpp & .h, he utilizado un bucle switch para identificar el numero que pone un usuario con el dia de la semana.
+ # Ejercicio 3:
+ Se encuentra en parte3 en el archivo ejercicio3.cpp & .h, he utilizado un array para que el usuario pueda poner todas las notas en la misma linea, un bucle for para la suma de las notas y luego la dividir entre cuanto proyectos se han realizado para sacar la media.
+ # Ejercicio 4:
+ Se encuentra en parte4 en el archivo ejercicio4.cpp & .h, he utilizado un array para que el usuario escriba el precio de cada uno de los productos, luego con ayuda de ia las ordenamos de mayor a menor los numeros y luego se suman los dos mas grandes que serian estarian en la posicion [0] & [1]. 
  
 
