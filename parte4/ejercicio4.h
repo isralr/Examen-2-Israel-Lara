@@ -3,9 +3,7 @@
 
 
 
-class ejercicio4 {
-
-};
+void precio();
 
 
 

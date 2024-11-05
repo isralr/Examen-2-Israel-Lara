@@ -4,9 +4,7 @@
 
 
 
-class ejercico3 {
-
-};
+void notas();
 
 
 
