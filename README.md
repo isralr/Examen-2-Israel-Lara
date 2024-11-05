@@ -35,4 +35,5 @@ Un estudiante ha completado un curso de programación avanzada en C++. Durante e
 Ejercicio 4: Promoción de "3 por 2" en Tienda
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
 
+ # Codigo apoyado por Copilot
 
