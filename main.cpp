@@ -8,4 +8,6 @@ int main() {
     dia();
     notas();
     precio();
+
+    return 0;
 }

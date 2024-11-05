@@ -12,7 +12,7 @@ void notas() {
         std::cin >> notas[i];
         suma += notas[i];
     }
+
     promedio = suma / numNotas;
     std::cout << "El promedio de las notas es: " << promedio << std::endl;
-
 }
